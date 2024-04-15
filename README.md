@@ -1,5 +1,3 @@
-Certainly! Below is a template for a `README.md` file for your GitHub repository for an AI face-eye-cat-detector setup. You can adjust the content to fit your specific project details:
-
 ```markdown
 # AI Face-Eye-Cat Detector
 
@@ -17,8 +15,8 @@ To set up the virtual environment and install the required packages, follow thes
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/face-eye-cat-detector.git
-cd face-eye-cat-detector
+git clone https://github.com/abselon/Human-FaceEye-and-Cat-Detector-using-HaarCascade.git
+cd Human-FaceEye-and-Cat-Detector-using-HaarCascade #Change this path to the actual path
 ```
 
 2. Create and activate the virtual environment:
